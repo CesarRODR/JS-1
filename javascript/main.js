@@ -44,4 +44,4 @@ function sumar() {
 }
  let sumaProducto1 = parseInt(prompt("ingresar precio de producto"));
  let sumaProducto2 = parseInt(prompt("ingresar precio de producto"));
- sumar(sumaProducto1 + sumaProducto2);
+ sumar();
